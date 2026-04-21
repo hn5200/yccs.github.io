@@ -1,3 +1,1 @@
-# yccs.github.io
-oi兄弟，这是一个好东西哦
 vless://d8224334c28248aeaa6de4e68f798e8e@i2.tjone.cn:6379/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=peer.pan.baidu.com&fp=chrome&security=reality&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef&packetEncoding=xudp#%E9%A6%99%E6%B8%AF-D-2
